@@ -1,0 +1,14 @@
+{
+  "name": "cc-a-backend-ponto",
+  "version": "1.0.0",
+  "description": "backend sistema de controle de ponto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Guilherme Andrade Palhares de Melo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
